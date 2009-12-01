@@ -1,5 +1,6 @@
 vim conf (thanks oz)
 
-mv vimoz ~/.vim && ln -s ~/.vim/vimrc ~/.vimrc
+cd ~/
+mv vimoz .vim && ln -s .vim/vimrc .vimrc
 
 
